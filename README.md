@@ -1,7 +1,5 @@
 # GitHub Guideline
 
-# SmartOMR
-
 # Team Rule
 
 ## 노션과 깃허브의 사용
