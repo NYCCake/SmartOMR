@@ -4,7 +4,7 @@ import numpy as np
 import argparse
 import imutils
 import cv2
-#
+
 ANSWER_KEY = {0: 1, 1: 4, 2: 0, 3: 3, 4: 1}
 
 #정확도를 올리기 위해 image를 resize할 필요성이 있는가?
